@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @gavincox
-- 👀  I’m interested in PHP and MySQL...
-- 🌱  I’m currently learning OOP, clean code and PHP security ...
-- 📫  How to reach me: gavinpcox@gmail.com...
+- 👀  I’m interested in PHP and MySQL
+- 🌱  I’m currently learning OOP, clean code and PHP security
+- 📫  How to reach me: gavinpcox@gmail.com
 
 <!---
 gavincox/gavincox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
