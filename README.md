@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @gavincox
 - 👀  I’m interested in PHP and MySQL
-- 🌱  I’m currently learning OOP, clean code and PHP security
+- 🌱  I’m currently learning clean code and PHP security
 - 📫  How to reach me: gavinpcox@gmail.com
 
 <!---
