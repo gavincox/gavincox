@@ -1,6 +1,5 @@
 - 👋  Hi, I’m @gavincox
-- 💻  I’m interested in PHP and MySQL
-- 🌱  I’m currently learning clean code and PHP security
+- 💻  I’m interested in PHP with MySQL
 
 <!---
 gavincox/gavincox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
